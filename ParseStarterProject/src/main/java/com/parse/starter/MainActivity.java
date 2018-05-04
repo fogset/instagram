@@ -25,6 +25,7 @@ import com.parse.ParseObject;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
+import com.parse.SignUpCallback;
 
 import java.util.List;
 
@@ -36,25 +37,36 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-
-    ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
-
-    query.whereEqualTo("username","sean");
-    query.setLimit(1);
-
-    query.findInBackground(new FindCallback<ParseObject>() {
+    /*
+    ParseUser user = new ParseUser();
+    user.setUsername("nick");
+    user.setPassword("myPassword");
+    user.signUpInBackground(new SignUpCallback() {
         @Override
-        public void done(List<ParseObject> objects, ParseException e) {
+        public void done(ParseException e) {
             if(e == null){
-                if(objects.size() > 0){
-                    for(ParseObject object : objects){
-                        Log.i("username", object.getString("username"));
-                        Log.i("score", Integer.toString(object.getInt("score")));
-                    }
-                }
+                Log.i("Sign Up OK!", "We did it");
+            }else{
+                e.printStackTrace();
+            }
+        }
+    });*/
+
+    ParseUser.logInInBackground("nick", "myPassword", new LogInCallback() {
+        @Override
+        public void done(ParseUser user, ParseException e) {
+            if(user != null){
+                Log.i("Success", "We logged in");
+            }else {
+                e.printStackTrace();
+                Log.i("Unsuccessful", "username or password is wrong");
             }
         }
     });
+
+
+
+
 
 
 
