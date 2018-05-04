@@ -28,7 +28,6 @@ import com.parse.SaveCallback;
 
 public class MainActivity extends AppCompatActivity {
 
-  //rPmDl9e34OuR
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
@@ -47,18 +46,36 @@ public class MainActivity extends AppCompatActivity {
           }
         }
       });
-  */
+
     ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
     query.getInBackground("X4ZL7jTBDh", new GetCallback<ParseObject>() {
       @Override
       public void done(ParseObject object, ParseException e) {
           if(e == null && object != null){
 
+              object.put("score", 85);
+              object.saveInBackground();
+
               Log.i("username", object.getString("username"));
               Log.i("score", Integer.toString(object.getInt("score"))  );
           }
       }
     });
+    */
+      ParseObject tweet = new ParseObject("Tweet");
+     tweet.put("username", "tweet");
+      //tweet.saveInBackground();
+      ParseQuery<ParseObject> query = ParseQuery.getQuery("Tweet");
+      query.getInBackground("jzrT5HwYl8", new GetCallback<ParseObject>() {
+        @Override
+        public void done(ParseObject object, ParseException e) {
+
+          object.put("username", "newtweet");
+          object.saveInBackground();
+          Log.i("username", object.getString("username"));
+        }
+      });
+
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
 

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu May 03 23:36:28 MDT 2018
+#Thu May 03 23:53:52 MDT 2018
 1.base=D\:\\Android 3.0 projects\\instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\11
 2.path=classes.dex
 0.baseType=DIRECTORY
