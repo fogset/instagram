@@ -19,6 +19,7 @@ import com.parse.Parse;
 import com.parse.ParseAnalytics;
 import com.parse.ParseAnonymousUtils;
 import com.parse.ParseException;
+import com.parse.ParseObject;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
@@ -31,7 +32,20 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-    
+      ParseObject score = new ParseObject("Score");
+      score.put("username", "nick");
+      score.put("score", 45);
+      score.saveInBackground(new SaveCallback() {
+        @Override
+        public void done(ParseException e) {
+          if(e == null){
+            Log.i("Success","We saved the score");
+          }else{
+            e.printStackTrace();
+          }
+        }
+      });
+
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
 
