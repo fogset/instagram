@@ -1,15 +1,15 @@
 #Internal package file, do not edit.
-#Fri May 04 00:30:34 MDT 2018
-1.base=D\:\\Android 3.0 projects\\instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+#Fri May 04 23:56:01 MDT 2018
+1.base=D\:\\Android 3.0 projects\\instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 2.path=classes.dex
 0.baseType=DIRECTORY
-2.base=D\:\\Android 3.0 projects\\instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+2.base=D\:\\Android 3.0 projects\\instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 2.set=DEX
 1.baseType=DIRECTORY
 count=3
 1.set=DEX
-0.path=classes2.dex
+0.path=classes.dex
 0.set=DEX
-0.base=D\:\\Android 3.0 projects\\instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+0.base=D\:\\Android 3.0 projects\\instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\1
 2.baseType=DIRECTORY
-1.path=classes.dex
+1.path=classes2.dex

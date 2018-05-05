@@ -8,9 +8,8 @@ MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Tianhao\.gradl
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\6db00f572e1bc293419e6090a3154a35\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\a756738b9253bf46f8ce9bdfda1ace8e\AndroidManifest.xml:16:1-20:12
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\b3664f0b600370924d25dc8096073b69\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\94fb805769503eff492221a6d01ed075\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\fdaf25ebd61c34928a2069e4de0fd884\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\196977ebbf6c812842298c76e3cada0c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\cdc6e889fec94a7d1914b56f6dda1d36\AndroidManifest.xml:16:1-19:12
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\66655c013d9f564dc4e7c30599e1a5f6\AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\5d5572ef1f2ebb085bb11f2934cb39cd\AndroidManifest.xml:16:1-33:12
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\04d1d075cb26306d553a89050ac4dbb5\AndroidManifest.xml:16:1-28:12
@@ -57,8 +56,14 @@ MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Tianhao\.gradle
 MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.4.0.aar\8d8b62a3e772e4f31c3f12cd89dfc226\AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\04d35c62946523ba0285a2921142d167\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0e659621279b2ea2c81da26c2439967f\AndroidManifest.xml:16:1-26:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\4413b03ec7c55ab0af06f60ddc975da4\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\a6c42e19cb999bac67d1f6f2854f03ab\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\65c2a220d915e1426d931fdd544cf5c0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d6afdf9db55a9937ef258e0dda393ee6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\dd3c6392ae8db116ded77243ed5df9d6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\603bb0585230a8c8d9070ef76ed52905\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\0340938e8a62b6851f6d02f1123be24f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\04646875d2331328432c28a5d5122bc2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3b18305d6abed07277727b41e3e1031d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\2cdb7951b0f1b1402110885d5f84860c\AndroidManifest.xml:17:1-31:12
 INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
 INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
 INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
@@ -144,10 +149,8 @@ MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Tianhao\.
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\a756738b9253bf46f8ce9bdfda1ace8e\AndroidManifest.xml:19:5-20
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\b3664f0b600370924d25dc8096073b69\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\b3664f0b600370924d25dc8096073b69\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\94fb805769503eff492221a6d01ed075\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\94fb805769503eff492221a6d01ed075\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\196977ebbf6c812842298c76e3cada0c\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\196977ebbf6c812842298c76e3cada0c\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:25:5-29:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\5d5572ef1f2ebb085bb11f2934cb39cd\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\5d5572ef1f2ebb085bb11f2934cb39cd\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\04d1d075cb26306d553a89050ac4dbb5\AndroidManifest.xml:27:5-20
@@ -222,10 +225,22 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Tianhao\
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\04d35c62946523ba0285a2921142d167\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0e659621279b2ea2c81da26c2439967f\AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0e659621279b2ea2c81da26c2439967f\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\4413b03ec7c55ab0af06f60ddc975da4\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\4413b03ec7c55ab0af06f60ddc975da4\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\a6c42e19cb999bac67d1f6f2854f03ab\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\a6c42e19cb999bac67d1f6f2854f03ab\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\65c2a220d915e1426d931fdd544cf5c0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\65c2a220d915e1426d931fdd544cf5c0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d6afdf9db55a9937ef258e0dda393ee6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d6afdf9db55a9937ef258e0dda393ee6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\dd3c6392ae8db116ded77243ed5df9d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\dd3c6392ae8db116ded77243ed5df9d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\603bb0585230a8c8d9070ef76ed52905\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\603bb0585230a8c8d9070ef76ed52905\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\0340938e8a62b6851f6d02f1123be24f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\0340938e8a62b6851f6d02f1123be24f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\04646875d2331328432c28a5d5122bc2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\04646875d2331328432c28a5d5122bc2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3b18305d6abed07277727b41e3e1031d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3b18305d6abed07277727b41e3e1031d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\2cdb7951b0f1b1402110885d5f84860c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\2cdb7951b0f1b1402110885d5f84860c\AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:22:9-41
 	android:icon
@@ -264,12 +279,10 @@ MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Tianhao\.
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\a756738b9253bf46f8ce9bdfda1ace8e\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\b3664f0b600370924d25dc8096073b69\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\b3664f0b600370924d25dc8096073b69\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\94fb805769503eff492221a6d01ed075\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\94fb805769503eff492221a6d01ed075\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\fdaf25ebd61c34928a2069e4de0fd884\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\fdaf25ebd61c34928a2069e4de0fd884\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\196977ebbf6c812842298c76e3cada0c\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\196977ebbf6c812842298c76e3cada0c\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\cdc6e889fec94a7d1914b56f6dda1d36\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\cdc6e889fec94a7d1914b56f6dda1d36\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\66655c013d9f564dc4e7c30599e1a5f6\AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\66655c013d9f564dc4e7c30599e1a5f6\AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\5d5572ef1f2ebb085bb11f2934cb39cd\AndroidManifest.xml:23:5-42
@@ -362,14 +375,26 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Tianhao\
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\04d35c62946523ba0285a2921142d167\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0e659621279b2ea2c81da26c2439967f\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\0e659621279b2ea2c81da26c2439967f\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\4413b03ec7c55ab0af06f60ddc975da4\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\4413b03ec7c55ab0af06f60ddc975da4\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\a6c42e19cb999bac67d1f6f2854f03ab\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\a6c42e19cb999bac67d1f6f2854f03ab\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\65c2a220d915e1426d931fdd544cf5c0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\65c2a220d915e1426d931fdd544cf5c0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d6afdf9db55a9937ef258e0dda393ee6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d6afdf9db55a9937ef258e0dda393ee6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\dd3c6392ae8db116ded77243ed5df9d6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\dd3c6392ae8db116ded77243ed5df9d6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\603bb0585230a8c8d9070ef76ed52905\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\603bb0585230a8c8d9070ef76ed52905\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\0340938e8a62b6851f6d02f1123be24f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\0340938e8a62b6851f6d02f1123be24f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\04646875d2331328432c28a5d5122bc2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\04646875d2331328432c28a5d5122bc2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3b18305d6abed07277727b41e3e1031d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3b18305d6abed07277727b41e3e1031d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\2cdb7951b0f1b1402110885d5f84860c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\2cdb7951b0f1b1402110885d5f84860c\AndroidManifest.xml:21:5-23:58
 INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
 INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\94fb805769503eff492221a6d01ed075\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
 		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
@@ -390,6 +415,28 @@ service#com.google.android.gms.cast.framework.ReconnectionService
 ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\6db00f572e1bc293419e6090a3154a35\AndroidManifest.xml:8:9-92
 	android:name
 		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\6db00f572e1bc293419e6090a3154a35\AndroidManifest.xml:8:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\65c2a220d915e1426d931fdd544cf5c0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\65c2a220d915e1426d931fdd544cf5c0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d6afdf9db55a9937ef258e0dda393ee6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d6afdf9db55a9937ef258e0dda393ee6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\dd3c6392ae8db116ded77243ed5df9d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\dd3c6392ae8db116ded77243ed5df9d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\603bb0585230a8c8d9070ef76ed52905\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\603bb0585230a8c8d9070ef76ed52905\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\0340938e8a62b6851f6d02f1123be24f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0.aar\0340938e8a62b6851f6d02f1123be24f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\04646875d2331328432c28a5d5122bc2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\04646875d2331328432c28a5d5122bc2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3b18305d6abed07277727b41e3e1031d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3b18305d6abed07277727b41e3e1031d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\2cdb7951b0f1b1402110885d5f84860c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\2cdb7951b0f1b1402110885d5f84860c\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:27:13-51
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\5d5572ef1f2ebb085bb11f2934cb39cd\AndroidManifest.xml:26:9-29:64
 	android:configChanges

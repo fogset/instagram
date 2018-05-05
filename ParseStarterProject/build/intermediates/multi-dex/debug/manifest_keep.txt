@@ -1,3 +1,0 @@
-# Referenced at D:\Android 3.0 projects\instagram\ParseStarterProject\build\intermediates\manifests\full\debug\AndroidManifest.xml:38
--keep class com.parse.starter.StarterApplication { <init>(...); }
-
