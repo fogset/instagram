@@ -12,6 +12,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Switch;
 import android.widget.TextView;
@@ -34,10 +35,25 @@ import java.util.List;
 
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+
+  TextView loginTextView;
+  Boolean signUpModeActive = true;
+
+
   @Override
   public void onClick(View v) {
     if(v.getId() == R.id.loginTextVIew){
-      Log.i("Switch", "Was tapped");
+      Button signUpBUtton = findViewById(R.id.signUpButton);
+
+      if(signUpModeActive){
+        signUpModeActive = false;
+        signUpBUtton.setText("Login");
+        loginTextView.setText("or, Sign Up");
+      }else {
+        signUpModeActive = true;
+        signUpBUtton.setText("Sign Up");
+        loginTextView.setText("or, Login");
+      }
     }
   }
 
@@ -69,7 +85,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-    TextView loginTextView = findViewById(R.id.loginTextVIew);
+    loginTextView = findViewById(R.id.loginTextVIew);
     loginTextView.setOnClickListener(this);
 
 
