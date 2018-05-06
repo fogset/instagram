@@ -36,7 +36,41 @@ public class StarterApplication extends Application {
             .build()
     );
 
+/*
+    ParseUser user = new ParseUser();
+    user.setUsername("nick");
+    user.setPassword("myPassword");
+    user.signUpInBackground(new SignUpCallback() {
+        @Override
+        public void done(ParseException e) {
+            if(e == null){
+                Log.i("Sign Up OK!", "We did it");
+            }else{
+                e.printStackTrace();
+            }
+        }
+    });
 
+    ParseUser.logInInBackground("nick", "myPassord", new LogInCallback() {
+        @Override
+        public void done(ParseUser user, ParseException e) {
+            if(user != null){
+                Log.i("Success", "We logged in");
+            }else {
+                e.printStackTrace();
+                Log.i("Unsuccessful", "username or password is wrong");
+            }
+        }
+    });
+  */
+    /*
+    ParseUser.logOut();
+    if (ParseUser.getCurrentUser() != null){
+        Log.i("Signed In", ParseUser.getCurrentUser().getUsername());
+    }else{
+        Log.i("not luck", "Not signed in");
+    }
+    */
 
 
     //ParseUser.enableAutomaticUser();

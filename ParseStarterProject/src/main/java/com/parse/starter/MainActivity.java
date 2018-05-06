@@ -14,6 +14,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Switch;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.parse.FindCallback;
@@ -32,7 +33,14 @@ import com.parse.SignUpCallback;
 import java.util.List;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+  @Override
+  public void onClick(View v) {
+    if(v.getId() == R.id.loginTextVIew){
+      Log.i("Switch", "Was tapped");
+    }
+  }
+
   public void signUpCLicked(View view){
     EditText usernameEditText = findViewById(R.id.usernameEditText);
     EditText passwordEditText = findViewById(R.id.passwordEditText);
@@ -48,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
         public void done(ParseException e) {
           if (e == null){
             Log.i("Signup", "Success");
+            Toast.makeText(MainActivity.this,"a new user signed up.", Toast.LENGTH_SHORT).show();
           }else {
             Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
           }
@@ -60,47 +69,8 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-
-    /*
-    ParseUser user = new ParseUser();
-    user.setUsername("nick");
-    user.setPassword("myPassword");
-    user.signUpInBackground(new SignUpCallback() {
-        @Override
-        public void done(ParseException e) {
-            if(e == null){
-                Log.i("Sign Up OK!", "We did it");
-            }else{
-                e.printStackTrace();
-            }
-        }
-    });
-
-    ParseUser.logInInBackground("nick", "myPassord", new LogInCallback() {
-        @Override
-        public void done(ParseUser user, ParseException e) {
-            if(user != null){
-                Log.i("Success", "We logged in");
-            }else {
-                e.printStackTrace();
-                Log.i("Unsuccessful", "username or password is wrong");
-            }
-        }
-    });
-
-    ParseUser.logOut();
-    if (ParseUser.getCurrentUser() != null){
-        Log.i("Signed In", ParseUser.getCurrentUser().getUsername());
-    }else{
-        Log.i("not luck", "Not signed in");
-    }
-    */
-
-
-
-
-
-
+    TextView loginTextView = findViewById(R.id.loginTextVIew);
+    loginTextView.setOnClickListener(this);
 
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
