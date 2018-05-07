@@ -1,15 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\2fdd8242b28586b8d9a602b89d908b27\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\6db00f572e1bc293419e6090a3154a35\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\a756738b9253bf46f8ce9bdfda1ace8e\AndroidManifest.xml:16:1-20:12
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\b3664f0b600370924d25dc8096073b69\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:multidex:1.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\cdc6e889fec94a7d1914b56f6dda1d36\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\df03fcbdb608889557479fae77b0a41c\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\66655c013d9f564dc4e7c30599e1a5f6\AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\5d5572ef1f2ebb085bb11f2934cb39cd\AndroidManifest.xml:16:1-33:12
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\04d1d075cb26306d553a89050ac4dbb5\AndroidManifest.xml:16:1-28:12
@@ -64,20 +65,20 @@ MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Tianh
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\04646875d2331328432c28a5d5122bc2\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3b18305d6abed07277727b41e3e1031d\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\2cdb7951b0f1b1402110885d5f84860c\AndroidManifest.xml:17:1-31:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
 	package
 		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
@@ -136,11 +137,11 @@ ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\Androi
 	android:name
 		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:5-79
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:22-76
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:15:22-76
 application
-ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:18:5-36:19
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:17:5-33:19
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\2fdd8242b28586b8d9a602b89d908b27\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\2fdd8242b28586b8d9a602b89d908b27\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\6db00f572e1bc293419e6090a3154a35\AndroidManifest.xml:5:5-9:19
@@ -151,6 +152,8 @@ MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Tianhao\.gradle
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-23.0.0.aar\b3664f0b600370924d25dc8096073b69\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\df03fcbdb608889557479fae77b0a41c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\df03fcbdb608889557479fae77b0a41c\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\5d5572ef1f2ebb085bb11f2934cb39cd\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\5d5572ef1f2ebb085bb11f2934cb39cd\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.4.0.aar\04d1d075cb26306d553a89050ac4dbb5\AndroidManifest.xml:27:5-20
@@ -242,31 +245,35 @@ MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Tianha
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\2cdb7951b0f1b1402110885d5f84860c\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\2cdb7951b0f1b1402110885d5f84860c\AndroidManifest.xml:25:5-29:19
 	android:label
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:22:9-41
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:21:9-41
 	android:icon
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:21:9-43
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:20:9-43
 	android:allowBackup
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:20:9-35
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:19:9-35
 	android:theme
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:23:9-40
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:22:9-40
 	android:name
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:19:9-43
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
 activity#com.parse.starter.MainActivity
-ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:25:9-33:20
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:23:9-31:20
 	android:label
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:27:13-45
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:25:13-45
 	android:name
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:26:13-41
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:24:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:28:13-32:29
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:29:17-69
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:29:25-66
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:31:17-77
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:31:27-74
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:29:27-74
+activity#com.parse.starter.UserListActivity
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:32:9-63
+	android:name
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:32:19-51
 uses-sdk
 INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
@@ -283,6 +290,8 @@ MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\c
 MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0.aar\6d3dfba2179f69b7dd3d387c551972cd\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:multidex:1.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\cdc6e889fec94a7d1914b56f6dda1d36\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:multidex:1.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\cdc6e889fec94a7d1914b56f6dda1d36\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\df03fcbdb608889557479fae77b0a41c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\df03fcbdb608889557479fae77b0a41c\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\66655c013d9f564dc4e7c30599e1a5f6\AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\66655c013d9f564dc4e7c30599e1a5f6\AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\5d5572ef1f2ebb085bb11f2934cb39cd\AndroidManifest.xml:23:5-42
