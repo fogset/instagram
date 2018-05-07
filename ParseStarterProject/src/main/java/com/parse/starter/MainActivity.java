@@ -11,9 +11,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.RelativeLayout;
 import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -33,12 +36,24 @@ import com.parse.SignUpCallback;
 
 import java.util.List;
 
+import static com.google.android.gms.analytics.internal.zzy.i;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+
+public class MainActivity extends AppCompatActivity implements View.OnClickListener, View.OnKeyListener{
 
   TextView loginTextView;
   Boolean signUpModeActive = true;
+  EditText usernameEditText;
+  EditText passwordEditText;
 
+  @Override
+  public boolean onKey(View v, int keyCode, KeyEvent event) {
+    if(keyCode == KeyEvent.KEYCODE_ENTER && event.getAction() == KeyEvent.ACTION_DOWN){
+        signUpCLicked(v);
+    }
+
+    return false;
+  }
 
   @Override
   public void onClick(View v) {
@@ -58,8 +73,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
   }
 
   public void signUpCLicked(View view){
-    final EditText usernameEditText = findViewById(R.id.usernameEditText);
-    EditText passwordEditText = findViewById(R.id.passwordEditText);
 
     if(usernameEditText.getText().toString().matches("") || passwordEditText.getText().toString().matches("")){
       Toast.makeText(this,"a username and a password is required.", Toast.LENGTH_SHORT).show();
@@ -79,7 +92,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
           }
         });
-      }else{
+      }
+      else
+        {
         //Login
         ParseUser.logInInBackground(usernameEditText.getText().toString(), passwordEditText.getText().toString(), new LogInCallback() {
           @Override
@@ -101,7 +116,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     loginTextView = findViewById(R.id.loginTextVIew);
     loginTextView.setOnClickListener(this);
+    usernameEditText = findViewById(R.id.usernameEditText);
+    passwordEditText = findViewById(R.id.passwordEditText);
+    ImageView logoImageView = findViewById(R.id.logoImageView);
+    RelativeLayout backgroundLayout = findViewById(R.id.backgroundLayout);
 
+    passwordEditText.setOnKeyListener(this);
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
