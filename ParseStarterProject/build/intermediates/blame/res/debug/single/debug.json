@@ -736,6 +736,10 @@
         "source": "C:\\Users\\Tianhao\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\6db00f572e1bc293419e6090a3154a35\\res\\drawable-mdpi-v4\\quantum_ic_stop_grey600_36.png"
     },
     {
+        "merged": "D:\\Android 3.0 projects\\instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_share_menu.xml.flat",
+        "source": "D:\\Android 3.0 projects\\instagram\\ParseStarterProject\\src\\main\\res\\menu\\share_menu.xml"
+    },
+    {
         "merged": "D:\\Android 3.0 projects\\instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_pause_circle_filled_white_36.png.flat",
         "source": "C:\\Users\\Tianhao\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\6db00f572e1bc293419e6090a3154a35\\res\\drawable-mdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
     },

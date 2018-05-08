@@ -35,7 +35,7 @@ public class StarterApplication extends Application {
             .server("http://18.220.7.174:80/parse/")
             .build()
     );
-
+    ParseUser user = new ParseUser();
 /*
     ParseUser user = new ParseUser();
     user.setUsername("nick");
