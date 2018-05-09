@@ -2632,6 +2632,10 @@
         "source": "C:\\Users\\Tianhao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\6d3dfba2179f69b7dd3d387c551972cd\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "D:\\Android 3.0 projects\\instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_feed.xml.flat",
+        "source": "D:\\Android 3.0 projects\\instagram\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_feed.xml"
+    },
+    {
         "merged": "D:\\Android 3.0 projects\\instagram\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cast_on_0_light.png.flat",
         "source": "C:\\Users\\Tianhao\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\b3664f0b600370924d25dc8096073b69\\res\\drawable-xxhdpi\\ic_cast_on_0_light.png"
     },

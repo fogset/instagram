@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\2fdd8242b28586b8d9a602b89d908b27\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\6db00f572e1bc293419e6090a3154a35\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.4.0.aar\a756738b9253bf46f8ce9bdfda1ace8e\AndroidManifest.xml:16:1-20:12
@@ -65,20 +65,20 @@ MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\Tianh
 MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\04646875d2331328432c28a5d5122bc2\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0.aar\3b18305d6abed07277727b41e3e1031d\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\2cdb7951b0f1b1402110885d5f84860c\AndroidManifest.xml:17:1-31:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
-INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
+INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 	package
 		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-35:12
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-36:12
 		INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
@@ -141,7 +141,7 @@ ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\Androi
 	android:name
 		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:15:22-76
 application
-ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:17:5-33:19
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:17:5-34:19
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\2fdd8242b28586b8d9a602b89d908b27\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\2fdd8242b28586b8d9a602b89d908b27\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\Tianhao\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\6db00f572e1bc293419e6090a3154a35\AndroidManifest.xml:5:5-9:19
@@ -271,9 +271,13 @@ ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\Androi
 	android:name
 		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:29:27-74
 activity#com.parse.starter.UserListActivity
-ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:32:9-63
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:32:9-54
 	android:name
 		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:32:19-51
+activity#com.parse.starter.UserFeedActivity
+ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml:33:19-51
 uses-sdk
 INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Android 3.0 projects\instagram\ParseStarterProject\src\main\AndroidManifest.xml
