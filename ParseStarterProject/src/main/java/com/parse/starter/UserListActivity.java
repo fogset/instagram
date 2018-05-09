@@ -115,6 +115,8 @@ public class UserListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_user_list);
 
+        setTitle("User Feed");
+
         userList = findViewById(R.id.userList);
         usernames = new ArrayList<String>();
         arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, usernames);
