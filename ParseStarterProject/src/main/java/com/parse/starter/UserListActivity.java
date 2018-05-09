@@ -89,6 +89,7 @@ public class UserListActivity extends AppCompatActivity {
         MenuInflater menuInflater = getMenuInflater();
         menuInflater.inflate(R.menu.share_menu, menu);
 
+
         return super.onCreateOptionsMenu(menu);
     }
 
@@ -100,6 +101,11 @@ public class UserListActivity extends AppCompatActivity {
             }else{
                 getPhoto();
             }
+        }else if(item.getItemId() == R.id.logout){
+            ParseUser.logOut();
+            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+            startActivity(intent);
+
         }
 
         return super.onOptionsItemSelected(item);

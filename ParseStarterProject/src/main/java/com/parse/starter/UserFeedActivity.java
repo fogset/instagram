@@ -50,7 +50,7 @@ public class UserFeedActivity extends AppCompatActivity {
                                             ViewGroup.LayoutParams.MATCH_PARENT,
                                             ViewGroup.LayoutParams.WRAP_CONTENT
                                     ));
-                                    imageView.setImageDrawable(getResources().getDrawable(R.drawable.instagram));
+                                    imageView.setImageBitmap(bitmap);
 
                                     linearLayout.addView(imageView);
                                 }
